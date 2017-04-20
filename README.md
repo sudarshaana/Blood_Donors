@@ -1,9 +1,10 @@
 # Blood_Donors-Personal_List-
 Personal blood donors list.
 
-# Create perosnal blood donors list.
-# Add Donors to List with Name, Blood group, Phone No
-# Edit Blood donors details
+# Features
+## Create perosnal blood donors list.
+## Add Donors to List with Name, Blood group, Phone No
+## Edit Blood donors details
 
 # Tap on the list to make call
 # Long press to edit details
